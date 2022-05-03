@@ -26,7 +26,7 @@
     <string name="Elixir_maintainer">Device Maintainer</string>
 
     <!-- Elixir version preference -->
-    <string name="Elixir_version">"Elixir version"</string>
+    <string name="Elixir_version">"Falcon version"</string>
 
     <!-- About Phone screen, Device Codename -->
     <string name="about_device_name">Device</string>
@@ -49,3 +49,4 @@
     <!-- Battery temperature -->
     <string name="battery_temp">Battery temperature</string>
 </resources>
+
