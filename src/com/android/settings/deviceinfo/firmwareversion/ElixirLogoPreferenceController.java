@@ -32,7 +32,7 @@ import com.android.settings.core.BasePreferenceController;
 
 public class ElixirLogoPreferenceController extends BasePreferenceController {
 
-    private static final Uri INTENT_URI_DATA = Uri.parse("https://projectelixiros.com/");
+    private static final Uri INTENT_URI_DATA = Uri.parse("https://falconos.in/");
     private static final String TAG = "ElixirLogoPreferenceCtrl";
 
     private final PackageManager mPackageManager;
